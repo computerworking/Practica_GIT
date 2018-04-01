@@ -1,4 +1,4 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
@@ -8,5 +8,6 @@
 </head>
 <body>
     <H2>prueba de conexion en GIT</H2>
+    <p>archivo modificado a extencion php</p>
 </body>
 </html>
